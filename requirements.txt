@@ -1,0 +1,5 @@
+python-telegram-bot==21.4
+python-dotenv==1.0.1
+PyYAML==6.0.2
+rapidfuzz==3.9.7
+openai==1.40.0
